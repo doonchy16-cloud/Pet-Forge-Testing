@@ -1,5 +1,5 @@
 const downloadUrl =
-  "https://github.com/doonchy16-cloud/Pet-Forge-Testing/releases/download/mvp-v1.0.0/Pet%20Forge-win32-x64.zip";
+  "https://github.com/doonchy16-cloud/Pet-Forge-Testing/releases/download/mvp-v1.0.0/Pet.Forge-win32-x64.zip";
 
 const githubUrl = "https://github.com/doonchy16-cloud/Pet-Forge-Testing";
 
